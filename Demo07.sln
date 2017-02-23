@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridApp", "GridApp\GridApp.csproj", "{B76B8EF9-4E88-4142-AE40-3865BA9347FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeApp", "EmployeeApp\EmployeeApp.csproj", "{17612C44-1732-430D-A1F5-C3DD880E3B3D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,24 @@ Global
 		{B76B8EF9-4E88-4142-AE40-3865BA9347FD}.Release|x86.ActiveCfg = Release|x86
 		{B76B8EF9-4E88-4142-AE40-3865BA9347FD}.Release|x86.Build.0 = Release|x86
 		{B76B8EF9-4E88-4142-AE40-3865BA9347FD}.Release|x86.Deploy.0 = Release|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|ARM.Build.0 = Debug|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x64.ActiveCfg = Debug|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x64.Build.0 = Debug|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x64.Deploy.0 = Debug|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x86.ActiveCfg = Debug|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x86.Build.0 = Debug|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Debug|x86.Deploy.0 = Debug|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|ARM.ActiveCfg = Release|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|ARM.Build.0 = Release|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|ARM.Deploy.0 = Release|ARM
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x64.ActiveCfg = Release|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x64.Build.0 = Release|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x64.Deploy.0 = Release|x64
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x86.ActiveCfg = Release|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x86.Build.0 = Release|x86
+		{17612C44-1732-430D-A1F5-C3DD880E3B3D}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

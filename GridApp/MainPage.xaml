@@ -8,6 +8,43 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Column="0"
+                   Grid.Row="0"
+                   Text="1st col 1st row"
+                   FontSize="20"/>
+            
+        <TextBlock Grid.Column="0"
+                   Grid.Row="1"
+                   Text="1st col 2st row"
+                    FontSize="20"/>
+        
+        <TextBlock Grid.Column="0"
+                   Grid.Row="2"
+                   Text="1st col 3st row"
+                    FontSize="20"/>
+        
+        <TextBlock Grid.Column="1"
+                   Grid.Row="0"
+                   Text="2st col 1st row"
+                    FontSize="20"/>
+        
+        <TextBlock Grid.Column="2"
+                   Grid.Row="1"
+                   Text="2st col 2st row"
+                    FontSize="20"/>
+        
+        <TextBlock Grid.Column="3"
+                   Grid.Row="2"
+                   Text="2st col 3st row"
+                    FontSize="20"/>
     </Grid>
 </Page>
